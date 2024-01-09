@@ -22,7 +22,7 @@ padding-right: 16px;
 }
 .container-padding {
 box-shadow: 0 0 25px;
-width: 70%;
+width: 30%;
 height: 588.2px;
 background-color: rgb(255, 255, 255);
 box-sizing: border-box;
@@ -41,7 +41,7 @@ padding-top: 0.15px;
 }
 .padding-bottom {
 box-shadow: 0 0 25px;
-width: 70%;
+width: 95%;
 position: bottom;
 height: 588.2px;
 background-color: rgb(255, 255, 255);
