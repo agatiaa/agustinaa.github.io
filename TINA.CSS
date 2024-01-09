@@ -22,7 +22,7 @@ padding-right: 16px;
 }
 .container-padding {
 box-shadow: 0 0 25px;
-width: 50%;
+width: 30%;
 height: 588.2px;
 background-color: rgb(255, 255, 255);
 box-sizing: border-box;
@@ -176,7 +176,7 @@ text-align: center;
 }
 img  {
     size: cover;
-    width: 100%;
+    width: 50%;
     height: 225.18px;
     line-height: 1.5px;
 }
